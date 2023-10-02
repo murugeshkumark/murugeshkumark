@@ -50,9 +50,7 @@ Passionate about crafting high-quality, scalable, and maintainable web applicati
 - [Download my Resume](https://github.com/murugeshkumark/murugeshkumark/blob/main/Murugesh%20Kumar%20Resume%20.pdf)
 
 ### 🛠️ Badges
-- [GitHub Developer Program](https://developer.github.com/program/)
-- [Oracle Certified Java Developer](https://education.oracle.com/java-certification)
-- [AWS Certified Developer](https://aws.amazon.com/certification/)
+- [AWS Certified Solution Architect - Associate](https://www.credly.com/badges/dbc79cf6-4f78-4fa3-9d3d-a757c0b7f41f)
 
 </br>
 
