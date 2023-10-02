@@ -19,10 +19,10 @@ Passionate about crafting high-quality, scalable, and maintainable web applicati
 - Java: ⭐⭐⭐⭐⭐
 - Spring Boot: ⭐⭐⭐⭐⭐
 - Angular: ⭐⭐⭐⭐⭐
-- RESTful APIs
-- Databases: MySQL, MongoDB
-- Version Control: Git
-- Testing Frameworks: JUnit
+- RESTful APIs : ⭐⭐⭐⭐⭐
+- Databases: MySQL, MongoDB ⭐⭐⭐⭐⭐
+- Version Control: Git ⭐⭐⭐⭐⭐
+- Testing Frameworks: JUnit ⭐⭐⭐⭐⭐
 
 ### 🔨 Projects
 - **Project 1**: Short description of Project 1 | Technologies: Java, Spring Boot, Angular | [Link to GitHub Repo](https://github.com/yourusername/project1) | [Live Demo](https://project1-demo.com)
