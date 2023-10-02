@@ -46,8 +46,8 @@ Passionate about crafting high-quality, scalable, and maintainable web applicati
 - Assisted in the development of software applications using Java, Spring Framework, and JavaScript.
 - Participated in code reviews and provided feedback to improve code quality.
 
-### 📄 Resume
-- [Download my Resume](https://your-resume-link.com)
+### 📄 Resume 
+- [Download my Resume](https://github.com/murugeshkumark/murugeshkumark/blob/main/Murugesh%20Kumar%20Resume%20.pdf)
 
 ### 🛠️ Badges
 - [GitHub Developer Program](https://developer.github.com/program/)
