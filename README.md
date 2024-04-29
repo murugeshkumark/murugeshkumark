@@ -13,6 +13,7 @@ Passionate about crafting high-quality, scalable, and maintainable web applicati
 ### 🚀 Skills
 - Java: ⭐⭐⭐⭐⭐
 - Spring Boot: ⭐⭐⭐⭐⭐
+- AWS: ⭐⭐⭐⭐⭐
 - Angular: ⭐⭐⭐⭐⭐
 - RESTful APIs : ⭐⭐⭐⭐⭐
 - Databases: MySQL, MongoDB ⭐⭐⭐⭐⭐
