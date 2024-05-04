@@ -49,7 +49,7 @@ Passionate about crafting high-quality, scalable, and maintainable web applicati
 - Participated in code reviews and provided feedback to improve code quality.
 
 ### 📄 Resume 
-- [Download my Resume](https://github.com/murugeshkumark/murugeshkumark/blob/main/Murugesh%20Kumar%20Resume%20.pdf)
+- [Download my Resume](https://github.com/murugeshkumark/murugeshkumark/blob/main/Murugesh%20Kumar%20AWS%20Java%20Spring%20boot%20Developer.pdf)
 
 ### 🛠️ Badges
 - [AWS Certified Solution Architect - Associate](https://www.credly.com/badges/dbc79cf6-4f78-4fa3-9d3d-a757c0b7f41f)
