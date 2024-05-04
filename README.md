@@ -17,6 +17,7 @@ Passionate about crafting high-quality, scalable, and maintainable web applicati
 - Angular: ⭐⭐⭐⭐⭐
 - RESTful APIs : ⭐⭐⭐⭐⭐
 - Databases: MySQL, MongoDB ⭐⭐⭐⭐⭐
+- Messging : JMS, Kafka, SNS , SQS ⭐⭐⭐⭐⭐
 - Version Control: Git ⭐⭐⭐⭐⭐
 - Testing Frameworks: JUnit ⭐⭐⭐⭐⭐
 
